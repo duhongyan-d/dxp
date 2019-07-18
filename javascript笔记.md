@@ -1,5 +1,5 @@
 # 前段笔记
----<br>
+---
 #### javascript的基础<br>
 ##### 概述<br>
 学习所有编程语言编写第一个程序的时候，都习惯性地编写“hello world”程序，学习JavaScript也是一样。作为我们编写的第一个JavaScript程序，我们将代码写在html文档中，body标签的结尾处<br>
